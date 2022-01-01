@@ -1,3 +1,7 @@
+# Generate 21 color shade of a single color
+
+### Live Link https://rafuj-color-generator-mini.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
